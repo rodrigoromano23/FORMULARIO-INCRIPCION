@@ -57,13 +57,13 @@ return (
     <div className="flex flex-col items-center gap-4 mb-6 w-full max-w-md">
 
       <img
-        src="/taller1.png"
+        src="/e2.png"
         alt="Electricidad y Reparaciones"
         className="w-full rounded-lg shadow"
       />
 
       <img
-        src="/pintura en tela1.png"
+        src="/tela1.png"
         alt="Pintura en tela"
         className="w-full rounded-lg shadow"
       />
